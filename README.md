@@ -1,54 +1,147 @@
-# Hi there, I'm Atharva Pandey! 👋 
-### Machine Learning & Deep Learning Enthusiast | Undergraduate at IIT BHU
+<div align="center">
 
-I am a passionate AI/ML developer focused on building, optimizing, and deploying intelligent systems. From training custom Transformer architectures to digging deep into predictive analytics, I love turning complex mathematical concepts into clean, functional code.
+<img src="./assets/hero.svg" width="100%" alt="Atharva Pandey — AI/ML, NLP and Agentic AI"/>
 
----
+<br/>
 
-## 🛠️ Technical Toolbox
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=850&color=67E8F9&center=true&vCenter=true&width=760&height=45&lines=Machine+Learning+%E2%86%92+Deep+Learning+%E2%86%92+NLP+%E2%86%92+Agentic+AI;I+build+models%2C+then+systems+around+them.;Understand+the+math.+Build+the+system.+Break+it.+Repeat." alt="Typing animation"/>
+</a>
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **Machine Learning** | ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=Matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4c72b0?style=flat-square&logo=pandas&logoColor=white) |
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) |
-| **Environments** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) |
----
+<br/>
 
-## 📂 Featured AI & ML Projects
+<a href="https://github.com/newtonspaxe-source">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/atharva-pandey-2ab044372">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:newtonspaxe@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-### 🤖 Transformer-Based Language Translator
-* **Overview:** Developed a sequence-to-sequence translation model completely from scratch based on the original Transformer architecture.
-* **Key Achievements:** Implemented custom multi-head attention mechanisms and optimized tokenization pipelines.
-* **Stack:** `PyTorch` • `Python` • `Tokenizers`
-
-### 📝 LSTM Sentiment Analyzer for Amazon Reviews
-* **Overview:** Built an end-to-end recurrent neural network trained on millions of data points to classify customer sentiment.
-* **Key Achievements:** Handled class imbalance and applied advanced text preprocessing techniques to boost accuracy.
-* **Stack:** `PyTorch` • `NLP` • `NumPy`
-
-### 🔢 ANN Digit Classifier (MNIST)
-* **Overview:** An Artificial Neural Network trained on the classic MNIST dataset achieving high validation accuracy.
-* **Stack:** `PyTorch` • `Matplotlib` • `Python`
-
-### 📊 Advanced Regression Analysis Models
-* **Overview:** Implemented and compared robust regression algorithms to predict continuous target variables with minimal error metrics.
-* **Stack:** `Scikit-Learn` • `NumPy` • `Matplotlib`
+</div>
 
 ---
 
-## 📊 GitHub Stats & Activity
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=newtonspaxe-source&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=newtonspaxe-source&theme=radical" alt="GitHub Streak" width="48%" />
+### `01`
+**LEARN**
+
+Mathematics · ML · DL
+
+</td>
+<td align="center" width="33%">
+
+### `02`
+**BUILD**
+
+NLP · Transformers · Agents
+
+</td>
+<td align="center" width="33%">
+
+### `03`
+**ENGINEER**
+
+Memory · Tools · Evaluation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```text
+                     xₜ  +  memoryₜ  +  toolsₜ
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │   MODEL     │
+                       └──────┬──────┘
+                              │
+                              ▼
+                       ┌─────────────┐
+                       │   SYSTEM    │
+                       └──────┬──────┘
+                              │
+                    constraints / evidence
+                              │
+                              ▼
+                           actionₜ
+```
+
+</div>
+
+## ⚙️ Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,huggingface,sklearn,numpy,pandas,jupyter,git,github,langchain,streamlit&theme=dark" alt="Python, PyTorch, Hugging Face, Scikit-learn, NumPy, Pandas, Jupyter, Git, GitHub, LangChain and Streamlit"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangSmith"/>
+
+</div>
+
+---
+
+## 🧪 Selected Work
+
+<div align="center">
+
+| | Project | Focus |
+|:--:|:--|:--|
+| `01` | **Agentic AI 360** | Event-driven multi-agent systems |
+| `02` | **Transformer Translator** | Attention · Seq2Seq · NLP |
+| `03` | **LSTM Sentiment Analyzer** | Sequence modelling · NLP |
+| `04` | **Regression Experiments** | Statistical learning |
+
+</div>
+
+> More implementation details live inside the individual repositories.
+
+---
+
+## 📡 GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=newtonspaxe-source&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub statistics"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.demolab.com?user=newtonspaxe-source&hide_border=true&theme=transparent" height="165" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=newtonspaxe-source&bg_color=00000000&color=67e8f9&line=8b5cf6&point=f8fafc&area=true&hide_border=true" width="96%" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Flow
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newtonspaxe-source/newtonspaxe-source/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/newtonspaxe-source/newtonspaxe-source/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/newtonspaxe-source/newtonspaxe-source/output/github-snake.svg" width="96%" alt="Animated GitHub contribution snake" />
+  </picture>
 </p>
 
----
+<div align="center">
 
-## 🤝 Let's Collaborate!
+### `building quietly. shipping loudly.`
 
-I am always looking for exciting research opportunities, open-source projects, or software/ML engineering internships.
+<img src="./assets/footer.svg" width="100%" alt="Animated neural wave footer"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-pandey-2ab044372)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:newtonspaxe@gmail.com)
+</div>
