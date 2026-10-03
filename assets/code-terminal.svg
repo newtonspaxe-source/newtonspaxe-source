@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 245">
+<rect width="620" height="245" rx="16" fill="#0a0f15" stroke="#1d2b35"/>
+<circle cx="24" cy="22" r="5" fill="#53636d"/><circle cx="42" cy="22" r="5" fill="#53636d"/><circle cx="60" cy="22" r="5" fill="#53636d"/>
+<text x="82" y="27" fill="#778995" font-family="monospace" font-size="12">intelligence.py</text>
+<text x="24" y="68" fill="#53e0ff" font-family="monospace" font-size="14">$ python intelligence.py</text>
+<text x="24" y="102" fill="#e9f1f7" font-family="monospace" font-size="13">observe()</text>
+<text x="180" y="102" fill="#52636e" font-family="monospace" font-size="13">→</text>
+<text x="208" y="102" fill="#e9f1f7" font-family="monospace" font-size="13">reason()</text>
+<text x="350" y="102" fill="#52636e" font-family="monospace" font-size="13">→</text>
+<text x="378" y="102" fill="#e9f1f7" font-family="monospace" font-size="13">verify()</text>
+<text x="512" y="102" fill="#52636e" font-family="monospace" font-size="13">→</text>
+<text x="540" y="102" fill="#53e0ff" font-family="monospace" font-size="13">act()</text>
+<line x1="24" y1="128" x2="596" y2="128" stroke="#1d2b35"/>
+<text x="24" y="158" fill="#748491" font-family="monospace" font-size="12">system.state = "learning"</text>
+<text x="24" y="180" fill="#748491" font-family="monospace" font-size="12">system.mode  = "agentic"</text>
+<text x="24" y="202" fill="#748491" font-family="monospace" font-size="12">system.guard = "deterministic"</text>
+</svg>
